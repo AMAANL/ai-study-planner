@@ -1,5 +1,15 @@
 # AI Study Planner for Engineering Students
 
+<img width="1470" height="797" alt="Screenshot 2026-02-07 at 5 21 43 PM" src="https://github.com/user-attachments/assets/1bce8501-47b5-4fd8-a7d8-eef631e5fb60" />
+
+<img width="942" height="588" alt="Screenshot 2026-02-07 at 5 21 58 PM" src="https://github.com/user-attachments/assets/d6d6efe1-30de-4132-8cf6-f4df8abb74fd" />
+
+<img width="1470" height="731" alt="Screenshot 2026-02-07 at 5 22 19 PM" src="https://github.com/user-attachments/assets/bbbeed54-352b-4993-8aa8-78c1302497f7" />
+
+<img width="1465" height="792" alt="Screenshot 2026-02-07 at 5 23 50 PM" src="https://github.com/user-attachments/assets/339b6958-1401-415f-be2f-c807bd28bb7b" />
+
+<img width="1381" height="704" alt="Screenshot 2026-02-07 at 5 55 11 PM" src="https://github.com/user-attachments/assets/16c2ef0d-c1aa-4be7-842e-fc6a0a95d660" />
+
 > [!IMPORTANT]
 > **🔑 API Key Required**: This app needs a Google Gemini API key to work. See [Quick Start](#-quick-start) for setup instructions.
 
