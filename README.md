@@ -10,6 +10,9 @@
 
 <img width="1381" height="704" alt="Screenshot 2026-02-07 at 5 55 11 PM" src="https://github.com/user-attachments/assets/16c2ef0d-c1aa-4be7-842e-fc6a0a95d660" />
 
+<img width="1335" height="634" alt="Screenshot 2026-02-07 at 6 37 05 PM" src="https://github.com/user-attachments/assets/fa0e632c-bcd5-450c-9813-6f31f167f641" />
+
+
 > [!IMPORTANT]
 > **🔑 API Key Required**: This app needs a Google Gemini API key to work. See [Quick Start](#-quick-start) for setup instructions.
 
