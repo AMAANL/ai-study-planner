@@ -23,9 +23,7 @@ An intelligent, adaptive study planner that generates personalized schedules usi
 ### Installation
 
 1. **Clone and navigate to the project**:
-   ```bash
-   cd /Users/amaanlakdawala/.gemini/antigravity/scratch/ai-study-planner
-   ```
+   
 
 2. **Install dependencies**:
    ```bash
